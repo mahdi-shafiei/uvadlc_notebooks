@@ -7,7 +7,7 @@ Welcome to the UvA Deep Learning Tutorials!
 ===========================================
 
 | *Course website*: https://uvadlc.github.io/
-| *Course edition*: DL1 - Fall 2024, DL2 - Spring 2023, Being kept up to date
+| *Course edition*: DL1 - Fall 2025, DL2 - Spring 2026, Being kept up to date
 | *Repository*: https://github.com/phlippe/uvadlc_notebooks
 | *Recordings*: `YouTube Playlist <https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA>`_
 | *Author*: Phillip Lippe
@@ -21,9 +21,7 @@ We will visit various topics such as optimization techniques, transformers, grap
 The notebooks are there to help you understand the material and teach you details of the PyTorch framework, including PyTorch Lightning.
 Further, we provide one-to-one translations of the notebooks to JAX+Flax as alternative framework.
 
-The notebooks are presented in the first hour of every group tutorial session.
-During the tutorial sessions, we will present the content and explain the implementation of the notebooks.
-You can decide yourself whether you just want to look at the filled notebook, want to try it yourself, or code along during the practical session.
+The notebooks are presented in the tutorial session. We will highlight the most relevant parts of the notebooks and give you the opportunity to ask questions.
 The notebooks are not directly part of any mandatory assignments on which you would be graded or similarly.
 However, we encourage you to get familiar with the notebooks and experiment or extend them yourself.
 Further, the content presented will be relevant for the graded assignment and exam.
@@ -31,26 +29,27 @@ Further, the content presented will be relevant for the graded assignment and ex
 The tutorials have been integrated as official tutorials of PyTorch Lightning.
 Thus, you can also view them in `their documentation <https://pytorch-lightning.readthedocs.io/en/latest/>`_.
 
-Schedule (Deep Learning 1, edition 2024)
+Schedule (Deep Learning 1, edition 2025)
 ----------------------------------------
 
-+------------------------------------------+---------------------------------------------------------------+
-| **Date**                                 | **Notebook**                                                  |
-+------------------------------------------+---------------------------------------------------------------+
-| Tuesday, 29. October 2024, 09:00-10:00   | Tutorial 2: Introduction to PyTorch                           |
-+------------------------------------------+---------------------------------------------------------------+
-| Monday, 4. November 2024, 15:00-16:00    | Tutorial 3: Activation functions                              |
-+------------------------------------------+---------------------------------------------------------------+
-| Monday, 11. November 2024, 15:00-16:00   | Tutorial 4: Optimization and Initialization                   |
-+------------------------------------------+---------------------------------------------------------------+
-| Monday, 18. November 2024, 15:00-16:00   | Tutorial 5: Inception, ResNet and DenseNet                    |
-+------------------------------------------+---------------------------------------------------------------+
-| Monday, 25. November 2024, 15:00-16:00   | Tutorial 6: Transformers and Multi-Head Attention             |
-+------------------------------------------+---------------------------------------------------------------+
-| Monday, 2. December 2024, 15:00-16:00    | Tutorial 7: Graph Neural Networks                             |
-+------------------------------------------+---------------------------------------------------------------+
-| Monday, 9. December 2024, 15:00-16:00    | Tutorial 17: Self-Supervised Contrastive Learning with SimCLR |
-+------------------------------------------+---------------------------------------------------------------+
++--------------------------------------------+--------------------------------------------------------------------------+
+| **Date**                                   | **Notebook**                                                             |
++============================================+==========================================================================+
+| Wednesday, 29. October 2025, 09:00–11:00   | Tutorial 2: Introduction to PyTorch + Snellius introduction              |
++--------------------------------------------+--------------------------------------------------------------------------+
+| Tuesday, 4. November 2025, 11:00–13:00     | Tutorial 3: Activation functions + Tutorial 4: Optimization and          |
+|                                            | Initialization                                                           |
++--------------------------------------------+--------------------------------------------------------------------------+
+| Tuesday, 11. November 2025, 11:00–13:00    | Tutorial 5: Inception, ResNet and DenseNet                               |
++--------------------------------------------+--------------------------------------------------------------------------+
+| Tuesday, 18. November 2025, 11:00–13:00    | Tutorial 6: Transformers and Multi-Head Attention                        |
++--------------------------------------------+--------------------------------------------------------------------------+
+| Tuesday, 25. November 2025, 11:00–13:00    | Tutorial 7: Graph Neural Networks                                        |
++--------------------------------------------+--------------------------------------------------------------------------+
+| Tuesday, 2. December 2025, 11:00–13:00     | Tutorial 17: Self-Supervised Contrastive Learning with SimCLR            |
++--------------------------------------------+--------------------------------------------------------------------------+
+| Tuesday, 9. December 2025, 11:00–13:00     | TBA                                                                      |
++--------------------------------------------+--------------------------------------------------------------------------+
 
 How to run the notebooks
 ------------------------
@@ -96,10 +95,10 @@ This is the first time we present these tutorials during the Deep Learning cours
 
 If you find the tutorials helpful and would like to cite them, you can use the following bibtex::
 
-   @misc{lippe2024uvadlc,
+   @misc{lippe2025uvadlc,
       title        = {{UvA Deep Learning Tutorials}},
       author       = {Phillip Lippe},
-      year         = 2024,
+      year         = 2025,
       howpublished = {\url{https://uvadlc-notebooks.readthedocs.io/en/latest/}}
    }
 
